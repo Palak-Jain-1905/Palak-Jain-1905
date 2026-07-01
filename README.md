@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Palak Jain</h1>
 
-<!--
-**Palak-Jain-1905/Palak-Jain-1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Python Developer | Django Developer | Computer Science Engineer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering Graduate
+- 💼 Junior Software Engineer
+- 🐍 Passionate Python & Django Developer
+- 🌱 Currently learning Django REST Framework, AWS and System Design
+- 📍 Bhopal, Madhya Pradesh, India
+
+---
+
+## 🚀 Tech Stack
+
+**Languages**
+
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+
+**Frameworks**
+
+- Django
+- Bootstrap
+
+**Database**
+
+- MySQL
+
+**Tools**
+
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 💻 Featured Projects
+
+### 🛒 PriceMatchX – E-Commerce Price Comparison Platform
+
+- Compare prices across multiple e-commerce websites.
+- Built using Python, Django, MySQL, BeautifulSoup and Selenium.
+
+### 📦 Inventory Management System
+
+- Inventory, Vendor, Request and Stock Management System.
+- Built using Python, Django and MySQL.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: **(Add your LinkedIn profile link here)**
+- 💻 GitHub: https://github.com/Palak-Jain-1905
+
+---
+
+⭐ *Thank you for visiting my profile!*
