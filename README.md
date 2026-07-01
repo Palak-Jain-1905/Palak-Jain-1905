@@ -58,7 +58,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: **(Add your LinkedIn profile link here)**
+- 💼 LinkedIn: https://www.linkedin.com/in/palak-jain-250a79259/
 - 💻 GitHub: https://github.com/Palak-Jain-1905
 
 ---
